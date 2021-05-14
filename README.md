@@ -1,24 +1,18 @@
-# vue_movieapp
+# Movie web app in Vue.js
 
-## Project setup
-```
-npm install
-```
+This is basic movie review web app with frontend using Vue.js, Vuetify and Tailwindcss. As backend i used firestore on firebase.Code is formatted with lint.
+I tried to use as many technologies as i know to do this project.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Used technologies
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Front-End
+:v: - Vue.js and Vuetify
+:ocean: - Tailwindcss
 
-### Lints and fixes files
-```
-npm run lint
-```
+Back-End
+:fire: - Firebase's firestore
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Preview:
+![preview image](https://github.com/TomKloucek/vue_movieapp/blob/master/public/preview.png)
+
+The site:
