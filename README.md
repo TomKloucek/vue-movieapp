@@ -15,5 +15,3 @@ Back-End
 Preview:
 ![preview image](https://github.com/TomKloucek/vue_movieapp/blob/master/public/preview.png)
 
-The site:
-[The site](https://vuejs-movieapp.netlify.app/)
